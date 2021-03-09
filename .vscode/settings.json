@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/home/kiran/myvirtualenvs/myvirt2/bin/python3",
+    "python.pythonPath": "c:\\Users\\kiran\\myvirtualenvs\\env1\\Scripts\\python.exe",
     "jupyter.jupyterServerType": "local"
 }
