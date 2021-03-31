@@ -34,7 +34,7 @@ def getWorst():
     for movie in top_ten:
         print(id_to_name[movie[0], movie[1], movie[2]])
 
-
+    
 
 if __name__ == "__main__":
     getWorst()
